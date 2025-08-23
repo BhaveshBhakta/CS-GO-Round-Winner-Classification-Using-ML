@@ -1,4 +1,4 @@
-## CS:GO Round Winner Classification
+## CS:GO Round Winner Classification Using ML
 
 ### Project Overview
 
